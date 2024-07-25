@@ -1,2 +1,2 @@
 # papagayo-iot
-Arduino code for data-logger kite flying
+Arduino code for kite flying data-logger
