@@ -1,1 +1,1 @@
-*.ino linguist-detectable=true
+dist/* linguist-vendored=false
